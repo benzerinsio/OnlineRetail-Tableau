@@ -1,4 +1,5 @@
 # 🔍 Análise de Vendas de uma Loja Online
+[Veja o dashboard interativo aqui](https://public.tableau.com/app/profile/felipe.sousa8487/viz/OnlineRetailDataset_17418115724380/Dashboard1)
 _Projeto de visualização de dados - Felipe V. Sousa_
 
 Este projeto apresenta uma análise básica das vendas de uma loja online, consolidada em um dashboard interativo com visualizações que destacam padrões de receita e comportamento de vendas.
@@ -14,7 +15,3 @@ O projeto foi desenvolvido no Tableau Public Desktop. Foram criados `calculated 
 
 ## 💬 Conclusão
 O dashboard oferece uma visão clara e consolidada das vendas, permitindo identificar rapidamente as regiões mais lucrativas e tendências temporais. Apesar de básico, o projeto demonstra a capacidade de transformar dados brutos em uma apresentação visual útil, servindo como ponto de partida para análises mais complexas.
-
----
-
-[Veja o dashboard interativo aqui](https://public.tableau.com/app/profile/felipe.sousa8487/viz/OnlineRetailDataset_17418115724380/Dashboard1)
